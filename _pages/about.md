@@ -22,4 +22,4 @@ Before starting my journey to become an academic researcher, I have studied and 
 
 As a seasoned data scientist, I've had extensive experience using various empirical techniques, including field experiments, causal machine learning, and quasi-experimental methods, to solve complicated business problems. During my PhD training, I have been deepening my understanding of the methods I previously applied at work, meanwhile I continue to learn new methods in econometrics and computer science, such as natural language processing (LLM) and reinforcement learning. Furthermore, I am enhancing my theoretical foundation in Microeconomic and Behavioral Economic theory. My goal is to publish high-quality research papers with managerial and societal relevance. 
 
-I travel regularly between the Netherlands and USA. Outside of research, I enjoy boudlering, both in the gym and on the rocks outdoor, snowboarding, and running. 
+I travel regularly between the Netherlands and USA. Outside of research, I enjoy boudlering(both in the gym and on the rocks outdoor), snowboarding, and running. 
