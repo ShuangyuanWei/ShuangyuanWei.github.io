@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: #true # includes a list of news items
+selected_papers: # true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a PhD candidate in quantitative marketing at Rotterdam School of Management, Erasmus University. I currently work on developing targeted interventions leveraging heterogeneous treatment effects in the context of sustainable behaviors and customer retention. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before starting my journey to become an academic researcher, I have studied and worked in the U.S. for 14 years. I moved to Washington DC from Beijing to obtain a masters degree in Economics. After graduation, I first worked in an economic consulting company where I created analyses for large-scale antitrust litigations. Then, I moved to Seattle to work for Amazon/AWS where I used data science techniques to improve business decision-making with data. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a seasoned data scientist, I've had extensive experience using various empirical techniques, including field experiments, causal machine learning, and quasi-experimental methods, to solve complicated business problems. During my PhD training, I have been deepening my understanding of the methods I previously applied at work, meanwhile I continue to learn new methods in econometrics and computer science, such as natural language processing (LLM) and reinforcement learning. Furthermore, I am enhancing my theoretical foundation in Microeconomic and Behavioral Economic theory. My goal is to publish high-quality research papers with managerial and societal relevance. 
+
+I travel regularly between the Netherlands and USA. Outside of research, I enjoy boudlering, both in the gym and on the rocks outdoor, snowboarding, and running. 
